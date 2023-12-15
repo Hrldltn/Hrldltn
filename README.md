@@ -4,11 +4,12 @@
 <img src="https://github.com/Hrldltn/Hrldltn/assets/109939979/18a10549-9b46-4da5-b5ca-cf3f5fbf28f6">
 SOBRE MI 🎈
 <hr>
-<br>
+<p>
 - ⭐ Github Star ⭐ 
 - 🖥  Web developer
 - 🎮 Video Juegos
 - 📚 Lectura
+</p>
 <br>
 
 ## Proyectos *bombitas*
