@@ -2,8 +2,8 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Harold Leyton</a> 👋</h1>
 </div>
 <img src="https://github.com/Hrldltn/Hrldltn/assets/109939979/18a10549-9b46-4da5-b5ca-cf3f5fbf28f6">
-## Sobre mi
-
+SOBRE MI 🎈
+</hr>
 - ⭐ Github Star ⭐ 
 - 🖥  Web developer
 - 🎮 Video Juegos
@@ -52,7 +52,7 @@
 <td width="50%">
 <h3 align="center">Buscador Cripto</h3>
 <div align="center">
-<a href="https://cotizacryptomonedas.netlify.app/" target="_blank"><img src="https://github.com/Hrldltn/Hrldltn/issues/4#issue-2044452571" width="400" alt="Cotizacion crypto"></a>
+<a href="https://cotizacryptomonedas.netlify.app/" target="_blank"><img src="https://github.com/Hrldltn/Hrldltn/assets/109939979/d083d824-6a5e-4f9e-a462-847c89bed726" width="400" alt="Cotizacion crypto"></a>
 <p>
 <a href="https://github.com/Hrldltn/BuscadorCrypto" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
