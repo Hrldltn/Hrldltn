@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Harold Leyton</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/HsENjJT">
+<img src="https://github.com/Hrldltn/Hrldltn/assets/109939979/18a10549-9b46-4da5-b5ca-cf3f5fbf28f6">
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
