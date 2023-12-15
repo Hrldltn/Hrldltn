@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Control de Presupuestos</h3>
 <div align="center">
-<a href="https://presupuestos-control.netlify.app" target="_blank"><img src="https://imgur.com/4iF7qdp" width="400" alt="Control de presupuesto"></a>
+<a href="https://presupuestos-control.netlify.app" target="_blank"><img src="https://github.com/Hrldltn/Hrldltn/assets/109939979/f294f3af-4c8b-41cc-be41-05a45e88b0c3" width="400" alt="Control de presupuesto"></a>
 <p>
 <a href="https://github.com/Hrldltn/Control-Presupuesto" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
