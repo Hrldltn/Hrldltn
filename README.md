@@ -31,7 +31,7 @@
                <br>
 <h3 align="center">Administrador de Pacientes de Veterinaria</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://imgur.com/p6o8Gcr" width="400" alt="Administrador de Pacientes de Veterinaria"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/Hrldltn/Hrldltn/assets/109939979/535ae8e4-53ff-4ace-b77a-4a3caaa6c66c" width="400" alt="Administrador de Pacientes de Veterinaria"></a>
 <br>
 <p>
 <a href="https://github.com/Hrldltn/APP_APV_frontend" target="_blank">
@@ -52,7 +52,7 @@
 <td width="50%">
 <h3 align="center">Buscador Cripto</h3>
 <div align="center">
-<a href="https://cotizacryptomonedas.netlify.app/" target="_blank"><img src="https://imgur.com/eOGIRbi" width="400" alt="Cotizacion crypto"></a>
+<a href="https://cotizacryptomonedas.netlify.app/" target="_blank"><img src="https://github.com/Hrldltn/Hrldltn/issues/4#issue-2044452571" width="400" alt="Cotizacion crypto"></a>
 <p>
 <a href="https://github.com/Hrldltn/BuscadorCrypto" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -66,7 +66,7 @@
 <td width="50%">
 <h3 align="center">Buscador de clima</h3>
 <div align="center">
-<a href="https://buscadorclimamundial.netlify.app/" target="_blank"><img src="https://imgur.com/PkaVJdk" width="400" alt="Buscador clima"></a>
+<a href="https://buscadorclimamundial.netlify.app/" target="_blank"><img src="https://github.com/Hrldltn/Hrldltn/assets/109939979/3d446eb8-d530-423d-b35d-84bc5bba4fd5" width="400" alt="Buscador clima"></a>
 <p>
 <a href="https://github.com/Hrldltn/BuscadorClima" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
