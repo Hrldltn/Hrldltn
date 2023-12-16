@@ -41,7 +41,7 @@ SOBRE MI 🎈
 <a href="https://github.com/Hrldltn/APP_APV_frontend" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p> APV-Administrador de Pacientes de Veterinaria nace de querer implementar el stack mern con una necesidad en concreto , la de administrar un conjunto de pacientes y administrar perfiles con usuarios y contraseñas. Con solución simple y tecnologias conocidas como: Mongodb, Express, React, Nodejs, Taildwind. ###End GRACIAS por leer y por tu tiempo.</p>
+</p> APV-Administrador de Pacientes de Veterinaria nace de querer implementar el stack mern con una necesidad en concreto , la de administrar un conjunto de pacientes y administrar perfiles con usuarios y contraseñas. Con solución simple y tecnologias conocidas como: Mongodb, Express, React, Nodejs, Taildwind.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
