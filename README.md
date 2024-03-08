@@ -17,6 +17,21 @@ SOBRE MI 🎈
 ## Proyectos *bombitas*
 <table>
 <tr>
+
+<td width="50%">
+<h3 align="center">Control Alquimia</h3>
+<div align="center">
+<a href="https://alquimia-f652.onrender.com" target="_blank"><img src="https://github.com/Hrldltn/AlquimiaApp/assets/109939979/d828e251-d6fb-49a1-8941-5654d1a569fb" width="400" alt="Control de alquimia bodega"></a>
+<p>
+<a href="https://github.com/Hrldltn/AlquimiaApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=blue">
+</a>
+</p>
+<p>Alquimia APP es una aplicación desarrollada como parte de un trabajo en la Universidad Tecnológica INACAP. Esta aplicación tiene como objetivo principal gestionar y monitorear la bodega principal del restaurant. Se ha implementado la solución utilizando tecnologías como Python, Django , postgresql. Para la subida a producción se utilizo onrender con el plan gratuito. En este proyecto, me encargué tanto del desarrollo del front-end como del back-end. Utilicé Bootstrap , html , css , javascripts para construir la interfaz de usuario interactiva y amigable. Para el back-end, empleé Django para crear una API robusta y eficiente. Además, se utilizó postgresql como base de datos para almacenar la información relacionada con la bodega principal y la gestión operacional .</p>
+</div>
+                                                                                      
+</td>
+
 <td width="50%">
 <h3 align="center">Control de Presupuestos</h3>
 <div align="center">
