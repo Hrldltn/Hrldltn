@@ -14,7 +14,7 @@ SOBRE MI 🎈
 <br>
 </div>
 
-## Proyectos *bombitas*
+## Proyectos **
 <table>
 <tr>
 
